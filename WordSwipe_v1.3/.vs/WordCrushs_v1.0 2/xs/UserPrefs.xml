@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{43B8588B-E08E-5F2E-90A6-4CFD2084A132}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/WordCrush/Scripts/Game/GameController.cs">
+    <Files>
+      <File FileName="Assets/WordCrush/Scripts/Framework/Utilities/WorkerBehaviour.cs" Line="17" Column="1" />
+      <File FileName="Assets/WordCrush/Scripts/UI/StorePopup.cs" Line="1" Column="1" />
+      <File FileName="Assets/WordCrush/Scripts/UI/PackListItem.cs" Line="1" Column="1" />
+      <File FileName="Assets/WordCrush/Scripts/Game/GameController.cs" Line="308" Column="5" />
+      <File FileName="Assets/WordCrush/Scripts/UI/LevelListItem.cs" Line="11" Column="1" />
+      <File FileName="Assets/WordCrush/Scripts/UI/RewardAdButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/WordCrush/Scripts/Framework/AdmobController.cs" Line="169" Column="33" />
+      <File FileName="Assets/WordCrush/Scripts/Framework/Utilities/Editor/CustomEditorWindow.cs" Line="9" Column="27" />
+      <File FileName="Assets/WordCrush/Scripts/Framework/Utilities/Editor/EditorUtilities.cs" Line="1" Column="1" />
+      <File FileName="Assets/Editor/FindMissingScriptsRecursively.cs" Line="8" Column="24" />
+      <File FileName="Assets/WordCrush/Scripts/Editor/ThemeManagerEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets/WordCrush/Scripts/Editor/MenuItems.cs" Line="30" Column="14" />
+      <File FileName="Assets/WordCrush/Scripts/Framework/Popup/Popup.cs" Line="91" Column="29" />
+      <File FileName="Assets/WordCrush/Scripts/Framework/Popup/PopupManager.cs" Line="92" Column="12" />
+      <File FileName="Assets/WordCrush/Scripts/UI/UnlockThemePopup.cs" Line="8" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0885e4c8-6f5a-4c62-9a6d-5c4de5c43f78" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

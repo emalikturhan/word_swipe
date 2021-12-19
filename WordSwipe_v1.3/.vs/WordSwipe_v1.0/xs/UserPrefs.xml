@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6E19C060-9E40-E76B-CED3-F238F73764E9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/WordSwipe/Scripts/UI/SettingsPopup.cs">
+    <Files>
+      <File FileName="Assets/WordSwipe/Scripts/Framework/Screen/ScreenManager.cs" Line="157" Column="1" />
+      <File FileName="Assets/WordSwipe/Scripts/Game/GameController.cs" />
+      <File FileName="Assets/WordSwipe/Scripts/Game/WordListHandler.cs" />
+      <File FileName="Assets/WordSwipe/Scripts/Game/GridHandler.cs" />
+      <File FileName="Assets/WordSwipe/Scripts/UI/RewardAdButton.cs" />
+      <File FileName="Assets/WordSwipe/Scripts/Game/GameManager.cs" />
+      <File FileName="Assets/WordSwipe/Scripts/Framework/AdmobController.cs" />
+      <File FileName="Assets/GoogleMobileAds/Api/Reward.cs" />
+      <File FileName="Assets/WordSwipe/Scripts/Game/CoinAnimationManager.cs" Line="66" Column="21" />
+      <File FileName="Assets/WordSwipe/Scripts/UI/RewardButton.cs" />
+      <File FileName="Assets/WordSwipe/Scripts/UI/RewardAdGrantedPopup.cs" />
+      <File FileName="Assets/WordSwipe/Scripts/Framework/Popup/Popup.cs" Line="7" Column="15" />
+      <File FileName="Assets/WordSwipe/Scripts/UI/SettingsPopup.cs" Line="7" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="323bd7a9-1502-4fc8-916e-34ce6eb58cd8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

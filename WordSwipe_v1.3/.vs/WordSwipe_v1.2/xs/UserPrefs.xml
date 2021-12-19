@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{49ED184A-5E96-475D-86D5-82F6DBA01E73}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/WordSwipe/Scripts/Framework/IAP/Editor/IAPSettingsWindow.cs">
+    <Files>
+      <File FileName="Assets/WordSwipe/Scripts/Framework/IAP/Editor/IAPSettingsWindow.cs" Line="38" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ef68e237-88d8-49c6-afe4-e0f87b928360" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

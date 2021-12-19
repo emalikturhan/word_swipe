@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9AB5E948-5049-C48D-FC9D-6D6A001E8D6F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/WordSwipe/AssetFiles/Data/Packs/Pack_1/1.txt">
+    <Files>
+      <File FileName="Assets/WordSwipe/AssetFiles/Data/Packs/Pack_1/1.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="32185ef5-23cb-4065-b34d-11a68108fd8b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
